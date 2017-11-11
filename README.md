@@ -6,7 +6,7 @@ Installation
 =================
 **Clone Repository**
 ```
-git clone https://github.com/falconide/falconide-sdk-php.git
+git clone https://github.com/falconide/falconide-sdk-nodejs.git
 ```
 **Install Dependencies**
 ```
@@ -52,7 +52,7 @@ function callback_mail_sent(response){
 ```
 
 ```
-nodejs example.js
+node example.js
 ```
 
 Advance Usage Example
