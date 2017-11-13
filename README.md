@@ -29,7 +29,7 @@ var data = {
         "fromname": "yourfromname",
         "subject": "this is test email subject",
         "from": "from@example.com",
-        "content": "<p> hi, this is a test email sent via Pepipost JSON API.</p>"
+        "content": "<p> hi, this is a test email sent via Falconide JSON API.</p>"
     },
     "recipients": [
         "to@example.com"
