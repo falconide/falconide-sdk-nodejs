@@ -6,11 +6,11 @@ var data = {
     "email_details": {
         "fromname": "yourfromname",
         "subject": "this is test email subject",
-        "from": "from@iashishtiwari.in",
-        "content": "<p> hi, this is a test email sent via Pepipost JSON API.</p>"
+        "from": "from@example.com",
+        "content": "<p> hi, this is a test email sent via Falconide JSON API.</p>"
     },
     "recipients": [
-        "ashish@pepipost.com"
+        "to@example.com"
     ]
 };
 
